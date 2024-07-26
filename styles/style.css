@@ -22,7 +22,7 @@
   text-decoration-skip-ink: none;
 }
 
-.header__link {
+.header__link_active {
   text-decoration: none;
 }
 
